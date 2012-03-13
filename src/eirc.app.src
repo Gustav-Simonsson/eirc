@@ -1,0 +1,7 @@
+{application, eirc,
+ [{description, "IRC client(s) application"},
+  {vsn, "0.0.1"},
+  {applications, []},
+  {mod, {eirc, []}},
+  {env, []}
+]}.
